@@ -1,7 +1,2 @@
-import _ from "lodash";
-// var _ = require('lodash');
-
-
-
-
-console.log('y suka!');
+var _ = require('lodash'); //true write lodash in project
+console.log(_.last(['one','two']));
