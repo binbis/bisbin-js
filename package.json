@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/binbis/bisbin-js#readme",
   "devDependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prettier": "^2.5.1"
   },
   "keywords": []
 }
